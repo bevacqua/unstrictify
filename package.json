@@ -1,0 +1,20 @@
+{
+  "name": "unstrictify",
+  "description": "Browserify transform that removes 'use strict' statements from CommonJS modules",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bevacqua/unstrictify",
+  "authors": [
+    "Nicolas Bevacqua <nicolasbevacqua@gmail.com>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bevacqua/unstrictify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bevacqua/unstrictify/issues"
+  },
+  "dependencies": {
+    "through2": "^0.6.3"
+  }
+}
